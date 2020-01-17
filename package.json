@@ -1,0 +1,15 @@
+{
+  "name": "project-info-plugin",
+  "version": "1.0.1",
+  "description": "用于打包时生成项目信息",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+	"plugin"
+  ],
+  "author": "lyh",
+  "license": "ISC"
+}
